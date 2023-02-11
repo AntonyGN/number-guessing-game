@@ -1,0 +1,2 @@
+# number-guessing-game
+This code generates a random number between 1 and 100, and the user is asked to guess the number. The user inputs their guess, and the code then compares the guess with the generated number. If the guess is incorrect, the user is informed if their guess was too low or too high, and they are asked to guess again. This loop continues until the user correctly guesses the number.
